@@ -1,4 +1,6 @@
 public class Single_linked_list {
+
+    //Structure Of a NODE
     class Node{
         int data;
         Node Next;
