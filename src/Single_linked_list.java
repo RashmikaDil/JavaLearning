@@ -9,4 +9,7 @@ public class Single_linked_list {
             this.Next= null;
         }
     }
+    public class SingleLinkedList{
+        Node head;
+    }
 }
